@@ -1,0 +1,4 @@
+﻿class X #Créer la class X°.
+ # <= permet de créer des commentaires.
+
+end #Ferme la class.
